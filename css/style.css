@@ -1,0 +1,27 @@
+.content {
+   color: black;
+}
+.content-link {
+   color: rgb(89, 255, 0);
+}
+.subtext {
+   color: rgb(255, 0, 0);
+}
+.text {
+   color: rgb(221, 0, 255);
+}
+.war {
+   color: rgb(3, 118, 91);
+}
+#corona19{
+   color: brown;
+}
+.covid p{
+   color: tomato;
+}
+
+.spec-dsns {
+   color: rgb(255, 2, 2);
+}
+.spec {
+   color: black;
